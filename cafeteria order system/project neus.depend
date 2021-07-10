@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1579706035 source:c:\users\himan\desktop\c++\project neus\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<process.h>
+
+1580380751 source:c:\users\himan\desktop\c++\project neus(caffetria order system)\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1580493109 source:c:\users\himan\desktop\c++\project neus(caffetria order system) - copy\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1580493109 source:c:\users\himan\desktop\c++\cafeteria order system\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
